@@ -1,16 +1,19 @@
-## Hi there 👋
+# Constantine-max
 
-<!--
-**Constantine-max/Constantine-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical products at the intersection of automation, crypto analytics, and multilingual web experiences.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Crypto Translator](https://github.com/Constantine-max/crypto-translator) — explains Ethereum transactions in plain language for web and mobile.
+- [InvestSignalBot](https://github.com/Constantine-max/InvestSignalBot) — Telegram bot for cryptocurrency market rankings powered by CoinGecko.
+
+## Current toolkit
+
+TypeScript · React · Next.js · Python · Telegram bots · Ethereum · Testing · Mobile development
+
+## What I care about
+
+- clear interfaces for complex technical workflows;
+- safe handling of credentials and user data;
+- useful automation that solves concrete problems;
+- products that work across languages and devices.
